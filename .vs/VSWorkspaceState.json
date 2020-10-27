@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\css"
+    "\\assets\\css",
+    "\\blogs"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\blogs\\LevelDesignerBlog.html",
   "PreviewInSolutionExplorer": false
 }
